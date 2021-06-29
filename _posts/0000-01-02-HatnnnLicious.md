@@ -2,5 +2,5 @@
 layout:slide
 title: "Welcome to our second slide"
 ---
-Your text here
+One does not simply write original material
 Use the left arrow to go back!
